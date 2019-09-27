@@ -1,0 +1,22 @@
+h1{
+   text-align: center;
+  color: #1089FF;
+}
+body{
+  background-color: #e5e5e5;
+  color: #23374D;
+}
+table, th, td {
+  border: 1px solid black;  
+  color: black; light grey;
+}
+.All{
+  text-align: center;
+  color: #23374d;
+}
+.Events{
+  color:white;
+  background-color: #1089FF;
+  width: 300px;
+  padding: 50px;
+}
